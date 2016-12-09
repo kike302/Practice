@@ -329,6 +329,7 @@ AppAsset::register($this);
          
             <li><?= Html::a('<i class="fa fa-circle-o"></i> contact', ['contact']); ?></li>
             <li><?= Html::a('<i class="fa fa-circle-o"></i> login', ['login']); ?></li>
+            <li><?= Html::a('<i class="fa fa-circle-o"></i> signup', ['signup']); ?></li>
           </ul>
         </li>
         
